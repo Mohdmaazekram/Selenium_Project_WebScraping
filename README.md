@@ -12,7 +12,7 @@ from selenium import webdriver,
 import pandas as pd, 
 import time.
 
-Step For Build This Project :- 
+Step For Build This 2 Project :- 
 
 Step 1 : Import libraries \
 Step 2 : Create a WebDriver instance & Navigate to a webpage. \
