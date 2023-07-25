@@ -1,4 +1,4 @@
-                                                          Completed 2 Projects on Selenium
+                                           Completed 2 Projects on Selenium
                                                                         
 Project 1 : In this project, I have scraped 5 pages of Data using "https://webscraper.io/" Website With the help of Selenium tool & Python libraries.\
 Project 2 : From This "https://www.saucedemo.com/" Website I have scraped 1 page of Data Using Selenium tool & Python libraries.
