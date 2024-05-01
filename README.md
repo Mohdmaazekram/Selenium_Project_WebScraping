@@ -2,7 +2,7 @@
 
 **Objective:**
   * This Python script demonstrates web scraping using Selenium from an e-commerce website, specifically "https://webscraper.io/test-sites/e-commerce/static/" or "https://www.saucedemo.com/inventory.html".
-  * It scrapes laptop, clothes and others e-commerce product data from multiple pages based on user input.\
+  * It scrapes laptop, clothes and others e-commerce product data from multiple pages based on user input.
     
 **Tools Used:**
   * Selenium WebDriver: Automates web browser interaction.
