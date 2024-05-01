@@ -9,7 +9,7 @@
     pandas: For data manipulation and DataFrame creation.
     time: For adding delays between actions.
 
-**Steps:**
+**Steps:**\n
 WebDriver Setup:
   * Imports necessary modules and sets up the WebDriver with Chrome.
 Navigation:
