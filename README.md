@@ -6,7 +6,7 @@
 **Tools Used:**
   * Selenium WebDriver: Automates web browser interaction.
   * Python Libraries:\
-    pandas: For data manipulation and DataFrame creation.
+    pandas: For data manipulation and DataFrame creation.\
     time: For adding delays between actions.
 
 **Steps:**\
